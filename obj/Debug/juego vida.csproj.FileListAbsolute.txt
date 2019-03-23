@@ -1,0 +1,10 @@
+C:\Users\toren\Desktop\clases\cecharp\fulke\juego vida\juego vida\bin\Debug\juego vida.exe.config
+C:\Users\toren\Desktop\clases\cecharp\fulke\juego vida\juego vida\bin\Debug\juego vida.exe
+C:\Users\toren\Desktop\clases\cecharp\fulke\juego vida\juego vida\bin\Debug\juego vida.pdb
+C:\Users\toren\Desktop\clases\cecharp\fulke\juego vida\juego vida\obj\Debug\juego vida.csprojAssemblyReference.cache
+C:\Users\toren\Desktop\clases\cecharp\fulke\juego vida\juego vida\obj\Debug\juego_vida.Form1.resources
+C:\Users\toren\Desktop\clases\cecharp\fulke\juego vida\juego vida\obj\Debug\juego_vida.Properties.Resources.resources
+C:\Users\toren\Desktop\clases\cecharp\fulke\juego vida\juego vida\obj\Debug\juego vida.csproj.GenerateResource.cache
+C:\Users\toren\Desktop\clases\cecharp\fulke\juego vida\juego vida\obj\Debug\juego vida.csproj.CoreCompileInputs.cache
+C:\Users\toren\Desktop\clases\cecharp\fulke\juego vida\juego vida\obj\Debug\juego vida.exe
+C:\Users\toren\Desktop\clases\cecharp\fulke\juego vida\juego vida\obj\Debug\juego vida.pdb
